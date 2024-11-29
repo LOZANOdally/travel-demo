@@ -1,0 +1,79 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+ 
+.welcome-title {
+    font-size: 32px;               
+    font-weight: bold;             
+    color: #4CAF50;                
+    text-align: center;            
+    margin: 50px;           
+    text-transform: uppercase;     
+    letter-spacing: 2px;           
+    
+  }
+  
+  
+.activity-image {
+    display: block;
+    margin: 0 auto;
+    max-width: 90%;
+    height: auto;
+  
+  }
+  
+  /* Modifie l'apparence de la barre de recherche */
+  .search-bar {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    margin-left: 20px;
+   
+  }
+  /* Modifie l'apparence du menu déroulant de catégorie */
+.category-select {
+    width: 10%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    background-color: #f0f0f0;
+    margin-left: 10px;
+  }
+
+
+  /* Modifie le style des titres d'activité */
+  .activity-title {
+    font-size: 30px;
+    font-weight: bold;
+    color: #333;
+    margin: 20px 0px 20px 20px;
+  }
+  
+  /* Modifie la présentation des descriptions */
+  .activity-description {
+    font-size: 20px;
+    color: #555;
+    margin: 20px 0px 20px 20px;
+  }
+  
+  /* Style pour les prix */
+  .activity-price {
+    font-size: 18px;
+    color: #28a745;
+    font-weight: bold;
+    margin: 20px 0px 20px 20px;
+  }
+  
+  /* Style pour les notes */
+  .activity-rating {
+    font-size: 16px;
+    color: #f39c12;
+    margin: 20px 0px 20px 20px;
+  }
+  
